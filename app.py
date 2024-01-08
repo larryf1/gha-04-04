@@ -19,7 +19,7 @@ async def index():
     return """
 <html>
     <head>
-        <title>Welcome to the Location Service API!</title>
+        <title>Welcome to the NEW AND IMPROVED Location Service API!</title>
     </head>
     <body>
         <font size="7">
